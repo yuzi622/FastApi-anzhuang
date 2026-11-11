@@ -203,7 +203,7 @@ FastApi 后台管理系统，提供仪表盘、应用管理、用户管理、封
 
 | 后台首页 | 应用仪表盘 | 功能菜单 |
 | --- | --- | --- |
-| ![后台首页](screenshots/backend/backend-home.png) | ![应用仪表盘](screenshots/backend/backend-dashboard.png) | ![功能菜单](screenshots/backend/backend-menu.jpeg) |
+| ![后台首页](screenshots/backend/backend-home.png) | ![应用仪表盘](screenshots/backend/backend-dashboard.png) | ![功能菜单](screenshots/fastapppro/latest-apps.png) |
 
 ---
 
@@ -213,7 +213,7 @@ FastAppPRO 是基于 **Flutter** 开发的 Android 客户端，完整对接 Fast
 
 | 首页 | 最新上架 | 商城中心 |
 | --- | --- | --- |
-| ![首页](screenshots/fastapppro/home.jpeg) | ![最新上架](screenshots/fastapppro/latest-apps.png) | ![商城中心](screenshots/fastapppro/mall.jpeg) |
+| ![首页](screenshots/fastapppro/home.jpeg) | ![最新上架](screenshots/backend/backend-menu.jpeg) | ![商城中心](screenshots/fastapppro/mall.jpeg) |
 
 | 帖子详情 | 我的商城 | 我买到的 |
 | --- | --- | --- |
