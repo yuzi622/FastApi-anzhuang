@@ -84,7 +84,6 @@ Fast 社区论坛系统（FastApi）是一套基于 Spring Boot 的社区论坛�
 #### 2️⃣ 准备域名
 
 - **域名 A**：访问 FastApi（必需）
-- **域名 B**：访问后台管理（必需）
 
 #### 3️⃣ 规划端口
 
@@ -193,7 +192,7 @@ sh /opt/fastapi.sh service install  # 安装 systemd 开机自启
 | --- | --- |
 | 🌐 安装指南 | https://fast.358583.xyz |
 | 📜 管理脚本下载 | https://shell.358583.xyz/fastapi.sh |
-| 📦 程序包下载 | https://shell.358583.xyz/FastApi.jar |
+| 📦 api程序包下载 | https://shell.358583.xyz/FastApi.jar |
 | 🔌 API 接口地址 | 你的部署域名（如 https://api.358583.xyz） |
 
 ---
