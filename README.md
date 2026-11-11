@@ -12,7 +12,7 @@
 [![Deploy](https://img.shields.io/badge/Deploy-10min-2098ff?style=flat-square)]()
 [![OS](https://img.shields.io/badge/OS-CentOS_Ubuntu_Debian-2098ff?style=flat-square)]()
 
-[安装指南](https://fast.358583.xyz) · [部署文档](./DEPLOYMENT.md) · [API 文档](https://fast.358583.xyz)
+[安装指南](./README.md) · [部署文档](./DEPLOYMENT.md) · [API 文档](./DEPLOYMENT.md)
 
 </div>
 
@@ -76,7 +76,7 @@ Fast 社区论坛系统（FastApi）是一套基于 Spring Boot 的社区论坛�
 | --- | --- | --- |
 | Typecho | 1.0 / 1.1 / 1.2 | 可选 |
 | Redis | 5.0 - 7.0 | 推荐 6.0 |
-| MySQL | 5.5 - 5.7 | 推荐 5.6 |
+| MySQL | 5.5 - 8.0 | 推荐 8.0 |
 
 > ⚠️ **重要提醒**
 > 请不要在服务器自行安装 Java 和 Tomcat！脚本已内置 JDK 17，自行安装会导致端口冲突。
@@ -190,10 +190,10 @@ sh /opt/fastapi.sh service install  # 安装 systemd 开机自启
 
 | 资源 | 地址 |
 | --- | --- |
-| 🌐 安装指南 | https://fast.358583.xyz |
+| 🌐 安装指南 | https:// |
 | 📜 管理脚本下载 | https://shell.358583.xyz/fastapi.sh |
 | 📦 api程序包下载 | https://shell.358583.xyz/FastApi.jar |
-| 🔌 API 接口地址 | 你的部署域名（如 https://api.358583.xyz） |
+| 🔌 API 接口地址 | 你的部署域名（如 https://api） |
 
 ---
 
