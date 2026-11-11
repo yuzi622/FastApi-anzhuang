@@ -373,7 +373,7 @@ async function request(path, params = {}) {
 
 | 资源 | 地址 |
 | --- | --- |
-| 安装指南 | https://fast.358583.xyz |
-| 管理脚本下载 | https://shell.358583.xyz/fastapi.sh |
-| 程序包下载 | https://shell.358583.xyz/FastApi.jar |
-| API 接口地址 | 你的部署域名（如 https://api.358583.xyz） |
+| 安装指南 | htt |
+| 管理脚本下载 | https://shell |
+| 程序包下载 | https://FastApi.jar |
+| API 接口地址 | 你的部署域名（如 http） |
