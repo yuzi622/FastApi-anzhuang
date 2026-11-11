@@ -203,7 +203,7 @@ FastAppPRO 是基于 **Flutter** 开发的 Android 客户端，完整对接 Fast
 
 | 首页 | 商城中心 | 帖子详情 |
 | --- | --- | --- |
-| ![首页](screenshots/fastapppro/home.jpeg) | ![商城中心](screenshots/fastapppro/mall.jpeg) | ![帖子详情](screenshots/fastapppro/post-detail.jpeg) |
+| ![首页](src/app/04.jpg) | ![商城中心](src/app/05.jpg) | ![帖子详情](src/app/06.jpg) |
 
 | 我的商城 | 我买到的 | 道具中心 |
 | --- | --- | --- |
