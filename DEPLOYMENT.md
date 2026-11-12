@@ -309,7 +309,7 @@ sh /opt/fastapi.sh updateBeta    # 更新到 Beta 版
 ### 10.4 请求封装示例（JavaScript / TypeScript）
 
 ```javascript
-const BASE_URL = 'https://api.358583.xyz';
+const BASE_URL = 'https://api';
 const TOKEN_KEY = 'userToken';
 
 const getToken = () => localStorage.getItem(TOKEN_KEY) || '';
