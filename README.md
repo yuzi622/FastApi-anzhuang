@@ -186,16 +186,6 @@ sh /opt/fastapi.sh service install  # 安装 systemd 开机自启
 
 ---
 
-## 🔗 相关链接
-
-| 资源 | 地址 |
-| --- | --- |
-| 🌐 安装指南 | https:// |
-| 📜 管理脚本下载 | https://shell.358583.xyz/fastapi.sh |
-| 📦 api程序包下载 | https://shell.358583.xyz/FastApi.jar |
-| 🔌 API 接口地址 | 你的部署域名（如 https://api） |
-
----
 
 ## 🖥️ 后台管理 · FastApi Admin
 
